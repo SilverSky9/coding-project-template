@@ -2,6 +2,6 @@
 
 typo word
 
-wierd
-recieve
-accomodate
+weird
+receive
+accommodate
